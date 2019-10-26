@@ -10,7 +10,6 @@
 
 ### 最新
 
-* [2019京东双11领金币脚本](https://www.leinpo.cn/articles/2019/10/22/1571746222084.html)
 * [世界，你好！](https://www.leinpo.cn/hello-solo)
 
 
